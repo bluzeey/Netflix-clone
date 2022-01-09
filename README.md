@@ -61,7 +61,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Whatsapp Version 2
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Netflix][product-screenshot]](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
@@ -157,4 +157,4 @@ Project Link: [NetflixV2](https://netflix-v2.netlify.app/)
 [license-url]: https://github.com/bluzeey/whatsapp-clone/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/sahil-maheshwari
-[product-screenshot]: public/whatsapp.PNG
+[product-screenshot]: public/netflix.PNG

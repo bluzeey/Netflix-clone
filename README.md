@@ -20,7 +20,7 @@
     <a href="https://github.com/bluzeey/netflix-clone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://whatsappv2-nextjs.vercel.app/">View Demo</a>
+    <a href="https://netflix-v2.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/bluzeey/netflix-clone/issues">Report Bug</a>
     ·
@@ -61,7 +61,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Netflix Clone
 
-[![Netflix][product-screenshot]](https://example.com)
+[![Netflix][product-screenshot]](https://netflix-v2.netlify.app/)
 
 
 
@@ -134,7 +134,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@TalkinIdeas](https://twitter.com/TalkinIdeas) - sahilm1711@gmail.com
+Sahil Maheshwari - [@TalkinIdeas](https://twitter.com/TalkinIdeas) - sahilm1711@gmail.com
 
 Project Link: [NetflixV2](https://netflix-v2.netlify.app/)
 
